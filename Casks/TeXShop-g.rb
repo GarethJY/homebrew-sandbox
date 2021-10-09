@@ -1,4 +1,4 @@
-cask "texshop" do
+cask "texshop-g" do
   version "4.68"
   sha256 "f482f01217f5085cb26828ad7b3bcafdddef381b0d1f54d72e5d8641b1403514"
 

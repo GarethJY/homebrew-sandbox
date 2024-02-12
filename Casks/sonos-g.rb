@@ -1,4 +1,4 @@
-cask "sonos" do
+cask "sonos-g" do
   version "16.0,77.4.49290"
   sha256 "56cd4b46ab02b3eb2e3c3d94e53881465a12e6e881b5cab6d4c655adf4d84955"
 

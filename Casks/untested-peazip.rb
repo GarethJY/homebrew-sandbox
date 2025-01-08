@@ -1,9 +1,9 @@
 cask "peazip" do
-  version "9.2.0"
+  version "10.2.0"
   sha256 "4116f990e017ed2aaf4283338ee957feb5a7df2aabcf49a5ee16ec863429817e"
 
   # github.com/rogeriopradoj/homebrew-cask-peazip/ was verified as official when first introduced to the cask
-  url "https://github.com/peazip/PeaZip/releases/download/9.2.0/peazip-9.2.0.DARWIN.aarch64.dmg"
+  url "https://github.com/peazip/PeaZip/releases/download/#{version}/peazip-#{version}.DARWIN.aarch64.dmg"
   name "PeaZip"
   homepage "https://peazip.github.io/"
 
